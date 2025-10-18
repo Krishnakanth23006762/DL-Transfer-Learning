@@ -23,9 +23,9 @@ STEP 6: Evaluate the model with test accuracy, confusion matrix, classification 
 
 ## PROGRAM
 
-### Name: Ashwin Akash M
+### Name: KRISHNAKANTH B
 
-### Register Number: 212223230024
+### Register Number: 212223230109
 
 ```python
 # Load Pretrained Model and Modify for Transfer Learning
